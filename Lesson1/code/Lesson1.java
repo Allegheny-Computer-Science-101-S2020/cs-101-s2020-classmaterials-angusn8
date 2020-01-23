@@ -1,5 +1,7 @@
 public class Lesson1{
 	public static void main(String[] args){
-		System.out.println("Welcome to CS-101 ...");
+		for (int i = 0; i < 10; i++) {
+			System.out.println("Welcome to CS101 ...");
+		}
 	}
 }
