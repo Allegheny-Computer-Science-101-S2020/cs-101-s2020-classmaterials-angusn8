@@ -1,3 +1,5 @@
+package p2;
+import p1.Vehicle;
 class Car extends Vehicle{
 	private int maxCapacity;
 	Car(){} // default constructor
