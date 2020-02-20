@@ -8,6 +8,7 @@ public class StudentsStub{
 		Students obj[] = new Students[count];
 		StudentsDriver driver = new StudentsDriver();
 		driver.loadStudents(obj);
+		
 		driver.displayStudents(obj);
 	}	
 }
